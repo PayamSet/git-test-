@@ -21,3 +21,11 @@ const test = () => {
 const test2 = () => {
     return false;
 };
+
+const likePost1NowCreated = () =>  {
+    return false;
+};
+
+const likePost2NowCreated = () =>  {
+    return true;
+};
