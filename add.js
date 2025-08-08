@@ -29,3 +29,7 @@ const likePost1NowCreated = () =>  {
 const likePost2NowCreated = () =>  {
     return true;
 };
+
+const getMe = (user) => {
+    return user.name
+}
